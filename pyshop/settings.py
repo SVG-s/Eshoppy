@@ -29,6 +29,7 @@ DEBUG = True  # True for development, False for production
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
+    ""eshoppy-1.onrender.com",
     "eshoppy-2.onrender.com",
     "https://eshoppy-2.onrender.com/"
     "muscle-copied-ease-museums.trycloudflare.com",
