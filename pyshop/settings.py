@@ -29,6 +29,7 @@ DEBUG = True  # True for development, False for production
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
+    "eshoppy-u369.onrender.com",
     "eshoppy-1.onrender.com",
     "eshoppy-2.onrender.com",
     "https://eshoppy-2.onrender.com/products"
