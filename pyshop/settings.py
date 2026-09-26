@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
     "eshoppy-2.onrender.com",
+    "https://eshoppy-2.onrender.com/"
     "muscle-copied-ease-museums.trycloudflare.com",
 ]
 
