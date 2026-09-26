@@ -35,6 +35,9 @@ ALLOWED_HOSTS = [
     "muscle-copied-ease-museums.trycloudflare.com",
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://eshoppy-2.onrender.com",
+]
 
 # Application definition
 
